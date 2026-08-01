@@ -1,19 +1,27 @@
-# Efficient Entities Continued
+<div align="center">
 
-Modernized fork of Efficient Entities with CleanroomMC support, an updated build toolchain, and ongoing renderer improvements.
+# Ultimate Entity Renderer
 
-## What's Different from Efficient Entities?
+A complete entity rendering optimization suite for Cleanroom 1.12.2.
 
-- Ported to CleanroomMC
-- Updated the Gradle build system and toolchain
-- Removed the legacy Tweaker-based loading pipeline
-- Added GitHub Actions continuous integration
-- Ongoing renderer optimizations
-- Actively maintained
+<a href="#">![Loader](https://img.shields.io/badge/Loader-Cleanroom-5865F2?style=flat-square)
+
+---
+
+A modernized fork of Efficient Entities for Cleanroom 1.12.2. It aims to combine multiple entity rendering optimizations into a single mod
+
+</div>
+
+## Features
+
+- Faster entity rendering
+- Entity occlusion culling *(planned)*
+- Model part culling for large entity models *(planned)*
 
 ## Roadmap
 
 See the project roadmap:
+
 https://github.com/users/seeedl1ng/projects/6
 
 ---
@@ -26,16 +34,17 @@ Prerequisites:
 
 From the command line:
 
-1. `git clone https://github.com/seeedl1ng/Efficient-Entities.git`
-2. `cd Efficient-Entities`
+1. `git clone https://github.com/seeedl1ng/Ultimate-Entity-Renderer.git`
+2. `cd Ultimate-Entity-Renderer`
 3. `.\gradlew build`
-4. The compiled jar file will be in the folder `build/libs/`
+4. The compiled JAR will be located in `build/libs/`
 
 ---
 
 ### Credits
+- CleanroomMC — CleanroomModTemplate and various other resources.
 
-Efficient Entities Continued is based on the original **Efficient Entities** project by Michael Sebero.
+- Based on the original **Efficient Entities** project by **Michael Sebero**
 
 Original project:
 https://github.com/Michael-Sebero/Efficient-Entities
