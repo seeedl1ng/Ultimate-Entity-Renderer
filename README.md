@@ -4,7 +4,8 @@
 
 A complete entity rendering optimization suite for Cleanroom 1.12.2.
 
-<a href="#">![Loader](https://img.shields.io/badge/Loader-Cleanroom-5865F2?style=flat-square)
+<a href="#">![Loader](https://img.shields.io/badge/Loader-Cleanroom-5865F2?style=flat-square)<a/>
+<a href="#">![LWJGL](https://img.shields.io/badge/LWJGL-3-green?style=flat-square)<a/>
 
 ---
 
