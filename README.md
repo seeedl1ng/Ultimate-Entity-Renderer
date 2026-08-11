@@ -17,8 +17,9 @@ A modernized fork of Efficient Entities for Cleanroom 1.12.2. It aims to combine
 
 - Faster entity rendering
 - Entity occlusion culling *(planned)*
-- Model part culling for large entity models *(planned)*
+- BBE *(planned)*
 - Integration CrankShaft *(planned)*
+- Model part culling for large entity models *(planned)*
 
 ## Roadmap
 
